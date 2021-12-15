@@ -1,0 +1,10 @@
+D:\CLOUDX\Courses\Nam3\C#\buoi08\buoi08\bin\Debug\buoi08.exe.config
+D:\CLOUDX\Courses\Nam3\C#\buoi08\buoi08\bin\Debug\buoi08.exe
+D:\CLOUDX\Courses\Nam3\C#\buoi08\buoi08\bin\Debug\buoi08.pdb
+D:\CLOUDX\Courses\Nam3\C#\buoi08\buoi08\obj\Debug\buoi08.csproj.AssemblyReference.cache
+D:\CLOUDX\Courses\Nam3\C#\buoi08\buoi08\obj\Debug\buoi08.Properties.Resources.resources
+D:\CLOUDX\Courses\Nam3\C#\buoi08\buoi08\obj\Debug\buoi08.csproj.GenerateResource.cache
+D:\CLOUDX\Courses\Nam3\C#\buoi08\buoi08\obj\Debug\buoi08.csproj.CoreCompileInputs.cache
+D:\CLOUDX\Courses\Nam3\C#\buoi08\buoi08\obj\Debug\buoi08.exe
+D:\CLOUDX\Courses\Nam3\C#\buoi08\buoi08\obj\Debug\buoi08.pdb
+D:\CLOUDX\Courses\Nam3\C#\buoi08\buoi08\obj\Debug\buoi08.Paint.resources

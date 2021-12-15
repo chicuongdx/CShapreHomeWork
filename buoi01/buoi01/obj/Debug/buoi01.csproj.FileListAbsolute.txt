@@ -1,0 +1,11 @@
+D:\CLOUDX\Courses\Nam3\C#\buoi01\buoi01\bin\Debug\buoi01.exe.config
+D:\CLOUDX\Courses\Nam3\C#\buoi01\buoi01\bin\Debug\buoi01.exe
+D:\CLOUDX\Courses\Nam3\C#\buoi01\buoi01\bin\Debug\buoi01.pdb
+D:\CLOUDX\Courses\Nam3\C#\buoi01\buoi01\obj\Debug\buoi01.csproj.AssemblyReference.cache
+D:\CLOUDX\Courses\Nam3\C#\buoi01\buoi01\obj\Debug\buoi01.Calculator.resources
+D:\CLOUDX\Courses\Nam3\C#\buoi01\buoi01\obj\Debug\buoi01.Properties.Resources.resources
+D:\CLOUDX\Courses\Nam3\C#\buoi01\buoi01\obj\Debug\buoi01.csproj.GenerateResource.cache
+D:\CLOUDX\Courses\Nam3\C#\buoi01\buoi01\obj\Debug\buoi01.csproj.CoreCompileInputs.cache
+D:\CLOUDX\Courses\Nam3\C#\buoi01\buoi01\obj\Debug\buoi01.exe
+D:\CLOUDX\Courses\Nam3\C#\buoi01\buoi01\obj\Debug\buoi01.pdb
+D:\CLOUDX\Courses\Nam3\C#\buoi01\buoi01\obj\Debug\buoi01.Notepad.resources

@@ -1,0 +1,10 @@
+D:\CLOUDX\Courses\Nam3\C#\buoi03\buoi03\bin\Debug\buoi03.exe.config
+D:\CLOUDX\Courses\Nam3\C#\buoi03\buoi03\bin\Debug\buoi03.exe
+D:\CLOUDX\Courses\Nam3\C#\buoi03\buoi03\bin\Debug\buoi03.pdb
+D:\CLOUDX\Courses\Nam3\C#\buoi03\buoi03\obj\Debug\buoi03.csproj.AssemblyReference.cache
+D:\CLOUDX\Courses\Nam3\C#\buoi03\buoi03\obj\Debug\buoi03.Properties.Resources.resources
+D:\CLOUDX\Courses\Nam3\C#\buoi03\buoi03\obj\Debug\buoi03.csproj.GenerateResource.cache
+D:\CLOUDX\Courses\Nam3\C#\buoi03\buoi03\obj\Debug\buoi03.csproj.CoreCompileInputs.cache
+D:\CLOUDX\Courses\Nam3\C#\buoi03\buoi03\obj\Debug\buoi03.exe
+D:\CLOUDX\Courses\Nam3\C#\buoi03\buoi03\obj\Debug\buoi03.pdb
+D:\CLOUDX\Courses\Nam3\C#\buoi03\buoi03\obj\Debug\buoi03.Hotel.resources

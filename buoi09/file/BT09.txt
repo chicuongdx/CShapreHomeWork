@@ -1,0 +1,8 @@
+1. Thiết kế form "Thanh toán": 
+	- LoadData()
+	- "In hóa đơn": gọi form hiển thị Report với hàm LoadReprot()
+2. Thiết kế form hiển thị Report: 
+	- Chỉ kéo ReportViewer vào form
+	- LoadReport()
+3. Tạo dataset dsReport / tạo datatable Bill gồm các cột giống trong datatable form "Thanh toán"
+4. Tạo report / thiết kế report theo mẫu
